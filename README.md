@@ -32,6 +32,8 @@ Your challenge is to create a bewitching interface where our magisters (league m
 5. **Testing the Enchantments:**
     - **Defensive Spells Against Bugs (Mistakes):** Utilize Jest and React Testing Library to test the functionality and interactivity of the form, ensuring robustness and reliability. 🛡️ Preferably use TDD for your development process.
 
+<img src="./public/images/mockup.png" alt="Premier Quidditch League Logo" width="200" />
+
 #### Required Wizarding Tools:
 
 - **Frontend Wandwork:** `React` & `Typescript` 🪄
