@@ -1,0 +1,16 @@
+{
+  "name": "pql-api",
+  "version": "1.0.0",
+  "description": "Premier Quidditch League (PQL) REST API",
+  "main": "index.js",
+  "repository": "https://github.com/ca-taly-st/pql-api.git",
+  "author": "Hugo Armenta <hugo@ca.taly.st>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "0.17.4"
+  }
+}
