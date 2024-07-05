@@ -34,6 +34,13 @@ Your challenge is to create a bewitching interface where our magisters (league m
 
 <img src="./public/images/mockup.png" alt="Premier Quidditch League Logo" width="200" />
 
+
+```
+**IMPORTANT!!!!**
+
+We know this interface isn't the best for UX/UI purposes, feel free to modify it and make it yours aslong as you keep the main objective in mind that is to create teams and assign unassigned players to them.
+```
+
 #### Required Wizarding Tools:
 
 - **Frontend Wandwork:** `React` & `Typescript` 🪄
